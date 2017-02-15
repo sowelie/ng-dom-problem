@@ -1,0 +1,15 @@
+.child-a {
+    position: absolute;
+    height: 100%;
+}
+
+.child-a button {
+    position: absolute;
+}
+
+.child-a .panel {
+    width: 600px;
+    border: 1px solid #f00;
+    height: 100%;
+    background-color: #fff;
+}
